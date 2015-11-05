@@ -5,6 +5,8 @@ public class Country {
     String name;
     String abbrev;
 
+    //have to create getters for serializer
+
     public int getId() {
         return id;
     }
